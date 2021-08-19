@@ -1,5 +1,7 @@
 # emoji-demo
 
+![](https://images.sunofbeaches.com/content/2021_08_19/878065153227096064.png)
+
 ## Project setup
 ```
 npm install
@@ -20,5 +22,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[代码配套文章](https://www.sunofbeach.net/a/1428011603181260801)
